@@ -1,4 +1,12 @@
-## Math 2001 (Sec 006) Conventions
+## Math 2001 books
+
+Online versions of the textbooks used in this class are available from the following links:
+
+
+1. [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) by Hammack.
+2. [Logic and Proof](https://leanprover.github.io/logic_and_proof/) by Avigad, Lewis, and van Doorn [(pdf)](https://github.com/williamdemeo/math2001-fall2018/blob/master/books/logic_and_proof-20180814.pdf) [(source)](https://github.com/leanprover/logic_and_proof).
+
+### Math 2001 (Sec 006) Conventions
 
 Here is a list of some conventions used in this class that differ from the conventions used in our textbook.
 

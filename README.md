@@ -1,9 +1,11 @@
 # Math 2001: Discrete Mathematics, Fall 2018
 
-**Lecture Times and Location.** 2--2:50pm MWF in CLUB 13   
-**Final Exam Date and Time.** Sun. Dec. 16 1:30--4pm in CLUB 13     
+**Lecture Times and Location:** 2--2:50pm MWF in CLUB 13   
+**Final Exam Date and Time:** Sun. Dec. 16 1:30--4pm in CLUB 13     
 **Course Webpage:** [github.com/williamdemeo/math2001-fall2018](https://github.com/williamdemeo/math2001-fall2018)  
-**Piazza Webpage:** [piazza.com/colorado/fall2018/math2001/home](https://piazza.com/colorado/fall2018/math2001/home)
+**Piazza Webpage:** [piazza.com/colorado/fall2018/math2001/home](https://piazza.com/colorado/fall2018/math2001/home)  
+**Course Schedule:** 
+[github.com/williamdemeo/math2001-fall2018/schedule](https://github.com/williamdemeo/math2001-fall2018/tree/master/schedule)
 
 ---
 
@@ -49,24 +51,27 @@ For this class the CU D2L system will be used only for recording grades.
 
 ---
 ## Course Description 
-Formal introduction to the concepts of logic, finite and infinite sets,
-functions, methods of proof and axiomatic systems. Learning mathematical
-expressions in writing is an integral part of the course. 
+Introduces the ideas of rigor and proof through an examination of basic set theory, existential and universal quantifiers, elementary counting, discrete structures, and additional topics.
+
+*Department enforced prerequisite:* MATH 1300 or MATH 1310 or APPM 1345 or APPM 1350 (minimum grade C-).
 
 This course emphasizes the reading and writing of mathematical proofs.
 
----
-## Learning Outcomes
+### Learning Outcomes
 
-Students will gain proficiency in reading and writing proofs, as well as solving
-computational problems, concerning the following topics:
+Students will gain proficiency in reading and writing mathematical proofs, as well as solving
+computational problems.
 
-See the list of [Course Objectives](#course-objectives) below for more details.
+### Writing Intensive Aspect
+This class will use writing to promote the learning of course materials and written assignments 
+will contribute significantly to the student's grade.  In particular, students will be actively engaged in the reading and writing of formal and informal proofs of mathematical statements.
 
+An important aspect of the writing component that will be elucidated over the course of 
+the semester is the problem of determining what constitutes a mathematical proof and at what level of detail and formality a proof should be presented.  Developing the skills required to determine the appropriate presentation style of mathematical arguments requires a lot of practice and experience; one objective of this course is to give the students an opportunity to gain such experience.
 
 --------------------------------------------------------------------
 ## Textbook Information
-### Recommended Books
+### Required Books
 We will use the following textbooks in this class.
 
 1. [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) by Hammack.
@@ -91,17 +96,6 @@ The third is a more advanced book on logic and foundations of mathematics.
 It is included in the list because the other books might leave some students unsatisfied, since their primary purpose is to provide a gentle introduction to abstract mathematics, so they  carefully avoid overwhelming students with technical details.
 
 
----
-## Writing Intensive Aspects
-This class will use writing to promote the learning of course materials and written assignments 
-will contribute significantly to the student's grade.  In particular, students will be actively engaged 
-in the reading and writing of formal and informal proofs of mathematical statements.
- 
-The types of writing assigned will vary and may include formal and informal 
-writing. More details about each writing assignment will be provided in that assignment's description.  
-
-Another aspect of the writing component of this course that will be elucidated over the course of 
-the semester is the problem of determining what constitutes a mathematical proof and at what level of detail and formality a proof should be presented.  Developing the skills required to determine the appropriate presentation style of mathematical arguments requires a lot of practice and experience; one objective of this course is to give the students an opportunity to gain such experience.
 
 -----------------------------------
 ## Attendance
@@ -126,7 +120,7 @@ to your classmates to leave, or even pack up your belongings, before the lecture
 is over.
 
 ---
-## Code of Conduct and Cheating
+## Code of Conduct
 Students must abide by [the university's code of conduct](https://www.colorado.edu/policies/student-classroom-and-course-related-behavior).
 In particular, cheating is unacceptable and will not be tolerated. Violations of this policy
 will be referred to and dealt with by the Office of Judicial Affairs in a
@@ -193,14 +187,14 @@ In accordance with university policy, **the final exam must be taken by all stud
 
 -----------------------------------
 ## Homework
-The homework will account for 40% of the course grade and will be
-assigned every week at the beginning of class and posted on the schedule.
+The written homework assignments will account for 28% of the course grade and will be
+due every week on Friday (at the beginning of class) as indicated on [the course schedule](https://github.com/williamdemeo/math2001-fall2018/tree/master/schedule).
 
 Here are some important facts about the homework policy in this class.
 
 + **You must submit a hard copy of your homework**; electronic submissions, e.g. email attachments, are not acceptable.
-+ **Homework submitted at the end of class on the due date will be penalized 10%.** 
-+ **Homework submitted after then end of class on the due date will not be accepted or graded.**
++ **Homework submitted at the end of class on the due date may be penalized.** 
++ **Homework submitted after the end of class on the due date will not be accepted or graded.**
 + **Homework is graded on correctness and overall presentation**, including clarity, legibility, and style.
  
 The lowest (or missed) homework score
